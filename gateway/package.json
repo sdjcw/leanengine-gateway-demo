@@ -1,0 +1,16 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.12.3",
+    "express-http-proxy": "^0.10.1"
+  },
+  "engines": {
+    "node": "4.x"
+  }
+}

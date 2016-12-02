@@ -1,0 +1,15 @@
+{
+  "name": "backend-app2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.12.3"
+  },
+  "engines": {
+    "node": "4.x"
+  }
+}
